@@ -1,11 +1,13 @@
 = Meetup Organizer Handbook
-:page-layout: meetup organizer handbook
+:page-layout: basic
 :page-role: meetup organizer handbook
 :description: Your handbook for organizing a local meetup.
 
 Organising events for your local Apache Cassandra meetup is a rewarding experience and a great way of giving back to your local community while enhancing your own learning. Anyone can organise local Cassandra events so long as they are familiar with using Cassandra and follow these guidelines.
-The Prime Directive
-The overarching principle that informs these guidelines is simple: Community events are all about the Cassandra community. This is our Prime Directive.
+
+== The Prime Directive
+
+The overarching principle that informs these guidelines is simple: **Community events are all about the Cassandra community**. This is our Prime Directive.
 
 While that may feel obvious to say, it’s an important point that will underpin all of the decisions you will make as an organiser - keep the community at the forefront, and everything else will fall into place.
 
