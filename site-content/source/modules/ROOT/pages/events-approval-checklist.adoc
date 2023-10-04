@@ -1,6 +1,6 @@
 = Events Approval Checklist
-:page-layout: events approval checklist
-:page-role: events approval checklist
+:page-layout: basic
+:page-role: events-approval-checklist
 :description: Your resource for getting your event approved by the community.
 
 Checklist for getting your Apache Cassandra® event approved by the PMC
